@@ -1,0 +1,16 @@
+{
+  "name": "two-factor-auth",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start":"node ."
+  },
+  "author": "Ma Xiaojun<somaxj@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "qrcode": "^0.7.0",
+    "speakeasy": "^2.0.0"
+  }
+}
